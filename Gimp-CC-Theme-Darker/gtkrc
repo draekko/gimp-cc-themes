@@ -1905,7 +1905,7 @@ style "toolbar" {
 
 class "GtkToolbar" style "toolbar"
 class "*HandleBox" style "toolbar"
-widget_class "*<GtkComboBox>*<GtkSeparator>" style "combobox_separator"
+#widget_class "*<GtkComboBox>*<GtkSeparator>" style "combobox_separator"
 
 ###########################################################
 
