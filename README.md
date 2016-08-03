@@ -1,7 +1,7 @@
 GIMP CC Theme
 ===
 
-[No longer maintained, see gimp 2.9.5+ for my related dark themes as it they come included with it.]
+[No longer maintained, see gimp 2.9.5+ for my related dark themes as it they come included with it. Visit https://github.com/draekko-rand/gimp-themes for screenshots and code.]
 
 Collection of three themes i created to give GIMP 2.8.x a similar look and feel as you'd find in Photoshop.  
 
