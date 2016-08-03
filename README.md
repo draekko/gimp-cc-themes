@@ -1,6 +1,7 @@
 GIMP CC Theme
 ===
 
+[No longer maintained]
 
 Collection of three themes i created to give GIMP 2.8.xx a similar look and feel as you'd find in Photoshop.  
 
