@@ -1,7 +1,7 @@
 GIMP CC Theme
 ===
 
-[ Backported from GIMP 2.9.2 themes for use with GIMP 2.8.18 and above ]
+[ Backported from GIMP 2.9.2 themes for use with GIMP 2.8.18 and above. Will no longer be supported after this release. ]
 
 Collection of three themes i created to give GIMP 2.8.x a similar look and feel as you'd find in Photoshop.  
 
