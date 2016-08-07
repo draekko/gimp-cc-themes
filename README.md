@@ -1,7 +1,7 @@
 GIMP CC Theme
 ===
 
-[No longer maintained, see gimp 2.9.5+ for my related dark themes as it they come included with it. Visit https://github.com/draekko-rand/gimp-themes for screenshots and code.]
+[ Backported from GIMP 2.9.2 themes for use with GIMP 2.8.18 and above ]
 
 Collection of three themes i created to give GIMP 2.8.x a similar look and feel as you'd find in Photoshop.  
 
@@ -33,11 +33,15 @@ Screenshots
 ===
 
 
-![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/dark.png "GIMP CC Dark theme")
+![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/images/darkest.png "GIMP CC Darkest theme")
 
-![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/darker.png "GIMP CC Darker theme")
+![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/images/darker.png "GIMP CC Darker theme")
 
-![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/darkest.png "GIMP CC Darkest theme")
+![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/images/gray.png "GIMP CC Gray theme")
+
+![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/images/light.png "GIMP CC Light theme")
+
+![alt text](https://github.com/draekko/gimp-cc-themes/raw/master/images/lighter.png "GIMP CC Lighter theme")
 
 
 
