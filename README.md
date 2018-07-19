@@ -12,12 +12,12 @@ Install
 
 Copy the theme folders to the locations here depending on your OS :  
 
-Windows: C:\Users\<your user name>\.gimp-2.8\themes  
+Windows: `%userprofile%\.gimp-2.8\themes`
 
-Mac OS X: ~/Library/Application Support/GIMP/2.8/themes   or   ~/.gimp-2.8/themes  
+Mac OS X: `~/Library/Application Support/GIMP/2.8/themes`   or   `~/.gimp-2.8/themes`  
    * (You may have to unhide the Library folder first)  
 
-Linux: ~/.gimp-2.8/themes   or   /home/<your user name>/.gimp-2.8/themes  
+Linux: `~/.gimp-2.8/themes`   or   `/home/<your user name>/.gimp-2.8/themes`
 
 
 Note
